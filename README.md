@@ -7,5 +7,5 @@ Dash Boards
 •	Responding to investor concerns, working with managers to significantly raise investor satisfaction.
 •	Email trigger/ sending communication alerts to investor/ AMC, if any discrepancies on applications
 •	Providing required data to concerned audit departments and working on it, if any observations are raised
-•	Managing daily, weekly, monthly MIS Reports and calls on risk factor of back-end operations with seniors/ AMC and        suggesting any suitable operational improvements without impact on TAT.
+•	Managing daily, weekly, monthly MIS Reports and calls on risk factor of back-end operations with seniors/ AMC and suggesting any suitable operational improvements without impact on TAT.
 •	Representing data using Geographic Maps, Pie Charts, Bar Charts, Line graphs, and Tree Maps.
